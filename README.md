@@ -1,2 +1,2 @@
 # Angular-app
-Car and bikes buying/selling apps through angularJs
+Deployment of Angular app to Github pages using Cli deployment!
